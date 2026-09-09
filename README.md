@@ -1,9 +1,15 @@
 # Clarity Setup for Mac
 
-Official signed installers and automatic updates for Clarity Setup, by Jiffi.
-
 Clarity helps you set up your Mac, manage tools and Claude additions, and start your projects.
 
-Supports Apple Silicon Macs running macOS 14 or later. The first signed installer will appear under Releases. Once installed, use Clarity’s in-app update controls for future versions.
+[Download Clarity 0.7.1 for Mac](https://github.com/jake-jiffi/clarity-releases/releases/download/v0.7.1/Clarity-Setup-0.7.1-arm64.dmg)
 
-This repository contains distribution files and documentation. Application source is maintained separately. No GitHub account is required to download or update the app.
+Requires an Apple Silicon Mac running macOS 14 or later. Open the installer, drag Clarity Setup into Applications, then open the app.
+
+Clarity checks for updates automatically. When a new version is available, download it inside the app and choose **Restart and update** when you are ready. You can also choose **Check for updates** from the **Clarity Setup** menu. Routine updates do not require another visit to GitHub.
+
+If you have a preview version through 0.6.1, install the current version once to join the new update channel. Your Clarity settings and saved projects stay in place.
+
+[See release notes and all versions](https://github.com/jake-jiffi/clarity-releases/releases)
+
+This repository contains official signed installers, update files and distribution documentation from Jiffi. Application source is maintained separately. No GitHub account is required to download or update Clarity.
