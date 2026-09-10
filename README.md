@@ -2,7 +2,7 @@
 
 Clarity helps you set up your Mac, manage tools and Claude additions, and start your projects.
 
-[Download Clarity 0.7.1 for Mac](https://github.com/jake-jiffi/clarity-releases/releases/download/v0.7.1/Clarity-Setup-0.7.1-arm64.dmg)
+[Download Clarity 0.8.0 for Mac](https://github.com/jake-jiffi/clarity-releases/releases/download/v0.8.0/Clarity-Setup-0.8.0-arm64.dmg)
 
 Requires an Apple Silicon Mac running macOS 14 or later. Open the installer, drag Clarity Setup into Applications, then open the app.
 
