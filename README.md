@@ -2,7 +2,7 @@
 
 Clarity helps you set up Claude Code, Codex or both, then guides you into your first project.
 
-[Download Clarity 0.8.4 for Mac](https://github.com/jake-jiffi/clarity-releases/releases/download/v0.8.4/Clarity-Setup-0.8.4-arm64.dmg)
+[Download Clarity 0.8.7 for Mac](https://github.com/jake-jiffi/clarity-releases/releases/download/v0.8.7/Clarity-Setup-0.8.7-arm64.dmg)
 
 Requires an Apple Silicon Mac running macOS 14 or later. Open the installer, drag Clarity Setup into Applications, then open the app.
 
